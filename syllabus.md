@@ -12,7 +12,6 @@ header-includes: |
 
 ![](fisher_sm.jpg) ![](wright_sm.jpg) ![](kimura_sm.jpg) ![](landscape.png){height=200}
 
-
 # Course information
 
 |                    |                                                                |
@@ -20,7 +19,7 @@ header-includes: |
 | **Instructor**     | Dr. Jeremy Van Cleve                                           |
 | **E-mail**         | <jvancleve@uky.edu>                                            |
 | **Phone**          | \(859\) 218-3020                                               |
-| **Office**         | 216 THM                                                        |
+| **Office**         | THM 216                                                        |
 | **Office hours**   | By appointment                                                 |
 |                    |                                                                |
 | **Class Time**     | T 11 AM – 12 PM                                                |
@@ -29,7 +28,6 @@ header-includes: |
 |                    | <https://uk.instructure.com/courses/2062737> (Canvas)          |
 |                    |                                                                |
 | **Credits**        | 1                                                              |
-
 
 # Course description
 
@@ -48,58 +46,89 @@ Through reading primary articles on the natural selection and other evolutionary
 
 The course will focus on readings from the primary literature with augmentation by other sources as needed.
 
-# Assignments
+# Course work
 
-Before each class meeting, students should submit two questions about the reading to the [Canvas course site][canvas site] under "Assignments"
+## Discussion leadership
+
+Each student should sign up to be a co-leader for **TWO** topics. To sign up:
+
+1. Go to the the [Canvas site][canvas site].
+2. Click on "Calendar" on the left hand navigation bar.
+3. Click "Find Appointment" on the right hand side.
+4. Select "BIO770: Dr. Panglos..." and hit "Submit".
+5. Sign up for **two dates** to co-lead discussion.
+
+Leading the discussion means:
+
+1. Reading the papers **thoroughly**.
+2. Preparing topics and questions derived from the papers to generate discussion.
+3. Doing additional background research on unfamiliar or challenging concepts or results so as to aid other students in discussion.
+4. Using prepared topics/questions/background to stimulate discussion.
+5. Maintaining a balance among the discussion contributions of all the students in class.
+6. Incorporating note card questions for other students (see below) in discussion.
+
+## Weekly note card questions
+
+Before each class meeting, each student should prepare one or two questions based on the readings.
+
+- Write each question out on a **note card** and include **your name**.
+- **Hand in** your note cards to the discussion leaders for that week at the beginning of class.
 
 # Grading
 
-* 25%: questions submitted before each meeting
-* 75%: participation in class discussion
+* 50%: Leading discussions
+* 25%: Weekly note card question
+* 25%: Participation in class discussion
 
 
 # Class and reading schedule
 
-| Week | Date   | Topic                                                                  | Discussion leaders | Readings (PDFs located on Canvas)                                                                                      |
-|------|--------|------------------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------|
-| 1    | Jan 10 | Discussion: what is natural selection anyway 🧐?                       | Van Cleve          |                                                                                                                        |
-|      |        |                                                                        |                    |                                                                                                                        |
-| 2    | Jan 17 | Fisher's fundamental theorem                                           |                    | Frank 2012 (Frank\_2012\_AdapativeLandscapeEvolutionaryBiology.pdf)                                                    |
-|      |        |                                                                        |                    | Ewens 2011 (Ewens\_2011\_BritishJPhilosSci.pdf)                                                                        |
-|      |        |                                                                        |                    |                                                                                                                        |
-| 3    | Jan 24 | Wright's shifting balance                                              |                    | Wright 1932 (Wright\_1932\_ProcSixthIntCongrGenet.pdf)                                                                 |
-|      |        |                                                                        |                    | Wright 1988 (Wright\_1988\_AmNat.pdf)                                                                                  |
-|      |        |                                                                        |                    | Lande 1985 (Lande\_1985\_Heredity.pdf)                                                                                 |
-|      |        |                                                                        |                    |                                                                                                                        |
-| 4    | Jan 31 | Critique of the shifting balance                                       |                    | Coyne et al. 1997 (Coyne.Barton.Turelli\_1997\_Evolution.pdf)                                                          |
-|      |        |                                                                        |                    |                                                                                                                        |
-| 5    | Feb 7  | A new slice of the shifting balance                                    |                    | Kryazhimskiy 2012 (Kryazhimskiy.Rice.Desai\_2012\_Evolution.pdf)                                                       |
-|      |        |                                                                        |                    | Nahum et al. 2015 (Nahum.Godfrey-Smith.Harding.etal\_2015\_ProcNatlAcadSciUSA.pdf)                                     |
-|      |        |                                                                        |                    | Van Cleve & Weissman 2015 (VanCleve.Weissman\_2015\_ProcNatlAcadSciUSA.pdf)                                            |
-|      |        |                                                                        |                    |                                                                                                                        |
-| 6    | Feb 14 | Lewontin and adaptationism                                             |                    | Gould & Lewontin 1979 (Gould.Lewontin\_1979\_ProcRSocB.pdf),                                                           |
-|      |        |                                                                        |                    | [Lewontin 2015](https://thisviewoflife.com/the-spandrels-of-san-marco-revisited-an-interview-with-richard-c-lewontin/) |
-|      |        |                                                                        |                    |                                                                                                                        |
-| 7    | Feb 21 | When fitness is not "maximized"                                        |                    | Frean & Abraham 2001 (Frean.Abraham\_2001\_ProcRSocB.pdf),                                                             |
-|      |        |                                                                        |                    | Kerr et al. 2002 (Kerr.Riley.Feldman\_2002\_Nature.pdf)                                                                |
-|      |        |                                                                        |                    |                                                                                                                        |
-| 9    | Mar 7  | "Design" and fitness optimization                                      |                    | West & Gardner 2013 (West.Gardner\_2013\_CurrBiol.pdf)                                                                 |
-|      |        |                                                                        |                    |                                                                                                                        |
-|      | Mar 14 | **Spring break**                                                       |                    |                                                                                                                        |
-|      |        |                                                                        |                    |                                                                                                                        |
-| 10   | Mar 21 | Phylogeny and ecology                                                  |                    | Kamilar & Cooper 2013 (Kamilar.Cooper\_2013\_PhilosTransRSocB.pdf)                                                     |
-|      |        |                                                                        |                    |                                                                                                                        |
-| 11   | Mar 28 | Molecular evolution: the Neutral Theory                                |                    | Kimura 1968 (Kimura\_1968\_Nature.pdf)                                                                                 |
-|      |        |                                                                        |                    | Kimura & Ohta 1971 (Kimura.Ohta\_1971\_Nature.pdf)                                                                     |
-|      |        |                                                                        |                    |                                                                                                                        |
-| 12   | Apr 4  | Molecular evolution: detecting selection with intra/interspecific data |                    | McDonald & Kreitman 1991 (McDonald.Kreitman\_1991\_Nature.pdf)                                                         |
-|      |        |                                                                        |                    | Smith & Eyre-Walker 2002(Smith.Eyre-Walker\_2002\_Nature.pdf)                                                          |
-|      |        |                                                                        |                    |                                                                                                                        |
-| 13   | Apr 11 | Molecular evolution: linkage and selection: Drosophila                 |                    | Begun & Aquadro 1992 (Begun.Aquadro\_1992\_Nature.pdf)                                                                 |
-|      |        |                                                                        |                    |                                                                                                                        |
-| 14   | Apr 18 | Molecular evolution: linkage and selection: Humans                     |                    | Enard et al. 2014 (Enard.Messer.Petrov\_2014\_GenomeRes.pdf)                                                           |
-|      |        |                                                                        |                    |                                                                                                                        |
-| 15   | Apr 25 | Molecular evolution: Adaptation vs Drift in organismal complexity      |                    | Lynch 2007 (Lynch\_2007\_ProcNatlAcadSciUSA.pdf)                                                                       |
+| Week | Date   | Topic                                                  | Discussion leaders | Readings (PDFs located on Canvas)                                                                                      |
+|------|--------|--------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------|
+| 1    | Jan 10 | Discussion: what is natural selection anyway 🧐?       | Van Cleve          |                                                                                                                        |
+|      |        |                                                        |                    |                                                                                                                        |
+| 2    | Jan 17 | Fisher's fundamental theorem                           |                    | [Frank.Slatkin\_1992\_TrendsEcolEvol.pdf](https://uk.instructure.com/courses/2062737/modules/items/26377503)           |
+|      |        |                                                        |                    | [Okasha\_2008\_BritishJPhilosSci.pdf](https://uk.instructure.com/courses/2062737/modules/items/26377504)               |
+|      |        |                                                        |                    |                                                                                                                        |
+| 3    | Jan 24 | Wright's shifting balance                              |                    | Wright\_1932\_ProcSixthIntCongrGenet.pdf                                                                               |
+|      |        |                                                        |                    | Wright\_1988\_AmNat.pdf                                                                                                |
+|      |        |                                                        |                    | Lande\_1985\_Heredity.pdf                                                                                              |
+|      |        |                                                        |                    |                                                                                                                        |
+| 4    | Jan 31 | Critique of the shifting balance                       |                    | Coyne.Barton.Turelli\_1997\_Evolution.pdf                                                                              |
+|      |        |                                                        |                    |                                                                                                                        |
+| 5    | Feb 7  | A new slice of the shifting balance                    |                    | Kryazhimskiy.Rice.Desai\_2012\_Evolution.pdf                                                                           |
+|      |        |                                                        |                    | Nahum.Godfrey-Smith.Harding.etal\_2015\_ProcNatlAcadSciUSA.pdf                                                         |
+|      |        |                                                        |                    | VanCleve.Weissman\_2015\_ProcNatlAcadSciUSA.pdf                                                                        |
+|      |        |                                                        |                    |                                                                                                                        |
+| 6    | Feb 14 | Lewontin and adaptationism                             |                    | Gould.Lewontin\_1979\_ProcRSocB.pdf                                                                                    |
+|      |        |                                                        |                    | [Lewontin 2015](https://thisviewoflife.com/the-spandrels-of-san-marco-revisited-an-interview-with-richard-c-lewontin/) |
+|      |        |                                                        |                    |                                                                                                                        |
+| 7    | Feb 21 | When fitness is not "maximized"                        |                    | Frean.Abraham\_2001\_ProcRSocB.pdf                                                                                     |
+|      |        |                                                        |                    | Kerr.Riley.Feldman\_2002\_Nature.pdf                                                                                   |
+|      |        |                                                        |                    |                                                                                                                        |
+| 8    | Feb 28 | The Price equation, kin selection, and group selection |                    | Hamilton\_1975\_BiosocialAnthropology.pdf                                                                              |
+|      |        |                                                        |                    |                                                                                                                        |
+| 9    | Mar 7  | "Design" and fitness optimization                      |                    | West.Gardner\_2013\_CurrBiol.pdf                                                                                       |
+|      |        |                                                        |                    |                                                                                                                        |
+|      | Mar 14 | **Spring break**                                       |                    |                                                                                                                        |
+|      |        |                                                        |                    |                                                                                                                        |
+| 10   | Mar 21 | Phylogeny and ecology                                  |                    | Kamilar.Cooper\_2013\_PhilosTransRSocB.pdf                                                                             |
+|      |        |                                                        |                    |                                                                                                                        |
+| 11   | Mar 28 | Molecular evolution: the Neutral Theory                |                    | Kimura\_1968\_Nature.pdf                                                                                               |
+|      |        |                                                        |                    | Kimura.Ohta\_1971\_Nature.pdf                                                                                          |
+|      |        |                                                        |                    |                                                                                                                        |
+| 12   | Apr 4  | Molecular evolution: Kimura vs Gillespie               |                    |                                                                                                                        |
+|      |        |                                                        |                    |                                                                                                                        |
+|      |        |                                                        |                    |                                                                                                                        |
+| 13   | Apr 11 | Molecular evolution: linkage and detecting selection   |                    | Smith.Eyre-Walker\_2002\_Nature.pdf                                                                                    |
+|      |        |                                                        |                    | Begun.Aquadro\_1992\_Nature.pdf                                                                                        |
+|      |        |                                                        |                    | Enard.Messer.Petrov\_2014\_GenomeRes.pdf                                                                               |
+|      |        |                                                        |                    |                                                                                                                        |
+| 14   | Apr 18 | Recent assessments of the neutral theory               |                    | Kern and Hahn 2018                                                                                                     |
+|      |        |                                                        |                    | Jensen et al 2019                                                                                                      |
+|      |        |                                                        |                    |                                                                                                                        |
+| 15   | Apr 25 | Natural selection and society                          |                    | Branch.Klingler.Byers.etal\_2022\_AmNat.pdf                                                                            |
+|      |        |                                                        |                    |                                                                                                                        |
 
 <!-- ## Topics: -->
 

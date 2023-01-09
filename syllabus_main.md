@@ -12,7 +12,6 @@ header-includes: |
 
 ![](fisher_sm.jpg) ![](wright_sm.jpg) ![](kimura_sm.jpg) ![](landscape.png){height=200}
 
-
 # Course information
 
 |                    |                                                                |
@@ -29,7 +28,6 @@ header-includes: |
 |                    | <https://uk.instructure.com/courses/2062737> (Canvas)          |
 |                    |                                                                |
 | **Credits**        | 1                                                              |
-
 
 # Course description
 
@@ -52,7 +50,15 @@ The course will focus on readings from the primary literature with augmentation 
 
 ## Discussion leadership
 
-Each student should sign up to be a co-leader for **TWO** topics (see [Canvas sign up][canvas site]). Leading the discussion means:
+Each student should sign up to be a co-leader for **TWO** topics. To sign up:
+
+1. Go to the the [Canvas site][canvas site].
+2. Click on "Calendar" on the left hand navigation bar.
+3. Click "Find Appointment" on the right hand side.
+4. Select "BIO770: Dr. Panglos..." and hit "Submit".
+5. Sign up for **two dates** to co-lead discussion.
+
+Leading the discussion means:
 
 1. Reading the papers **thoroughly**.
 2. Preparing topics and questions derived from the papers to generate discussion.
