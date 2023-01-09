@@ -1,0 +1,646 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>BIO 770 – Dr. Pangloss reborn? The ebb and flow of natural selection in evolution – Spring 2023</title>
+  <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <style>
+  body {
+    max-width: 50em;
+  }
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">BIO 770 – Dr. Pangloss reborn? The ebb and flow of
+natural selection in evolution – Spring 2023</h1>
+</header>
+<p><img src="fisher_sm.jpg" /> <img src="wright_sm.jpg" /> <img
+src="kimura_sm.jpg" /> <img src="landscape.png" height="200" /></p>
+<h1 id="course-information">Course information</h1>
+<table>
+<colgroup>
+<col style="width: 23%" />
+<col style="width: 76%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><strong>Instructor</strong></td>
+<td>Dr. Jeremy Van Cleve</td>
+</tr>
+<tr class="even">
+<td><strong>E-mail</strong></td>
+<td><a href="mailto:jvancleve@uky.edu"
+class="email">jvancleve@uky.edu</a></td>
+</tr>
+<tr class="odd">
+<td><strong>Phone</strong></td>
+<td>(859) 218-3020</td>
+</tr>
+<tr class="even">
+<td><strong>Office</strong></td>
+<td>216 THM</td>
+</tr>
+<tr class="odd">
+<td><strong>Office hours</strong></td>
+<td>By appointment</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><strong>Class Time</strong></td>
+<td>T 11 AM – 12 PM</td>
+</tr>
+<tr class="even">
+<td><strong>Class Location</strong></td>
+<td>THM 108</td>
+</tr>
+<tr class="odd">
+<td><strong>Website</strong></td>
+<td><a href="https://vancleve.github.io/BIO770-NaturalSelection"
+class="uri">https://vancleve.github.io/BIO770-NaturalSelection</a>
+(Website)</td>
+</tr>
+<tr class="even">
+<td></td>
+<td><a href="https://uk.instructure.com/courses/2062737"
+class="uri">https://uk.instructure.com/courses/2062737</a> (Canvas)</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><strong>Credits</strong></td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<h1 id="course-description">Course description</h1>
+<p>The aim of this course will be to review some of the past and current
+issues with the role and significance of natural selection in
+evolutionary change. Although natural selection was the main focus in
+Darwin’s <em>On the Origin of Species by Means of Natural
+Selection</em>, evolutionary forces such as mutation, recombination,
+migration, and genetic drift are integral to a complete understanding of
+evolutionary change. The relative importance of these nonselective
+forces in shaping organisms have long been a topic of substantial study
+and debate both using both theoretical and empirical tools. Beginning
+with the rival viewpoints of Sewall Wright and Ronald Fisher who helped
+establish the “modern evolutionary synthesis”, the course will involve
+reading and discussion of classic and recent scientific papers that
+investigate selective and nonselective forces. Attention will be paid to
+the conceptual and mathematical theory that provides a framework for
+understanding evolutionary change. Surveys of the signature of selection
+in population genomic data will also be discussed.</p>
+<h1 id="student-learning-outcomes">Student learning outcomes</h1>
+<p>Through reading primary articles on the natural selection and other
+evolutionary forces, students should be able to:</p>
+<ul>
+<li>Summarize the major strains of thought concerning the important of
+natural selection in shaping biological traits</li>
+<li>Connect current controversies regarding natural selection and
+evolution with their antecedents in the formation of the “modern
+synthesis” in the 1930s.</li>
+<li>Relate current issues regarding the detection of selection from
+genetic data and the assembly of genealogies and phylogenies to Kimura’s
+“neutral theory of molecular evolution” and the “modern synthesis”.</li>
+<li>Map the concepts of natural selection and adaptation to mathematical
+formalisms including “selection gradients”, “evolutionary equilibria”,
+and “evolutionarily stable strategies”.</li>
+</ul>
+<h1 id="course-materials">Course materials</h1>
+<p>The course will focus on readings from the primary literature with
+augmentation by other sources as needed.</p>
+<h1 id="assignments">Assignments</h1>
+<p>Before each class meeting, students should submit two questions about
+the reading to the <a
+href="https://uk.instructure.com/courses/2062737">Canvas course site</a>
+under “Assignments”</p>
+<h1 id="grading">Grading</h1>
+<ul>
+<li>25%: questions submitted before each meeting</li>
+<li>75%: participation in class discussion</li>
+</ul>
+<h1 id="class-and-reading-schedule">Class and reading schedule</h1>
+<table>
+<colgroup>
+<col style="width: 2%" />
+<col style="width: 3%" />
+<col style="width: 34%" />
+<col style="width: 58%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Week</th>
+<th>Date</th>
+<th>Topic</th>
+<th>Readings (PDFs located on Canvas)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Jan 10</td>
+<td>Fisher’s fundamental theorem</td>
+<td>Frank 2012
+(Frank_2012_AdapativeLandscapeEvolutionaryBiology.pdf)</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>2</td>
+<td>Jan 17</td>
+<td>Fisher’s fundamental theorem</td>
+<td>Ewens 2011 (Ewens_2011_BritishJPhilosSci.pdf)</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Jan 24</td>
+<td>Wright’s shifting balance</td>
+<td>Wright 1932 (Wright_1932_ProcSixthIntCongrGenet.pdf)</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td>Wright 1988 (Wright_1988_AmNat.pdf)</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td>Lande 1985 (Lande_1985_Heredity.pdf)</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>4</td>
+<td>Jan 31</td>
+<td>Critique of the shifting balance</td>
+<td>Coyne et al. 1997 (Coyne.Barton.Turelli_1997_Evolution.pdf)</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Feb 7</td>
+<td>A new slice of the shifting balance</td>
+<td>Kryazhimskiy 2012 (Kryazhimskiy.Rice.Desai_2012_Evolution.pdf)</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td>Nahum et al. 2015
+(Nahum.Godfrey-Smith.Harding.etal_2015_ProcNatlAcadSciUSA.pdf)</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td>Van Cleve &amp; Weissman 2015
+(VanCleve.Weissman_2015_ProcNatlAcadSciUSA.pdf)</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Feb 14</td>
+<td>Lewontin and adaptationism</td>
+<td>Gould &amp; Lewontin 1979 (Gould.Lewontin_1979_ProcRSocB.pdf),</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td><a
+href="https://thisviewoflife.com/the-spandrels-of-san-marco-revisited-an-interview-with-richard-c-lewontin/">Lewontin
+2015</a></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>Feb 21</td>
+<td>When fitness is not “maximized”</td>
+<td>Frean &amp; Abraham 2001 (Frean.Abraham_2001_ProcRSocB.pdf),</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td>Kerr et al. 2002 (Kerr.Riley.Feldman_2002_Nature.pdf)</td>
+</tr>
+<tr class="odd">
+<td>8</td>
+<td>Feb 28</td>
+<td>The Price equation, kin selection, and group selection</td>
+<td>Hamilton 1975 (Hamilton_1975_BiosocialAnthropology.pdf)</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>Mar 7</td>
+<td>“Design” and fitness optimization</td>
+<td>West &amp; Gardner 2013 (West.Gardner_2013_CurrBiol.pdf)</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Mar 14</td>
+<td><strong>Spring break</strong></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>10</td>
+<td>Mar 21</td>
+<td>Phylogeny and ecology</td>
+<td>Kamilar &amp; Cooper 2013
+(Kamilar.Cooper_2013_PhilosTransRSocB.pdf)</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td>Mar 28</td>
+<td>Molecular evolution: the Neutral Theory</td>
+<td>Kimura 1968 (Kimura_1968_Nature.pdf)</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td>Kimura &amp; Ohta 1971 (Kimura.Ohta_1971_Nature.pdf)</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td>Apr 4</td>
+<td>Molecular evolution: detecting selection with intra/interspecific
+data</td>
+<td>McDonald &amp; Kreitman 1991
+(McDonald.Kreitman_1991_Nature.pdf)</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td>Smith &amp; Eyre-Walker 2002(Smith.Eyre-Walker_2002_Nature.pdf)</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>13</td>
+<td>Apr 11</td>
+<td>Molecular evolution: linkage and selection: Drosophila</td>
+<td>Begun &amp; Aquadro 1992 (Begun.Aquadro_1992_Nature.pdf)</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>14</td>
+<td>Apr 18</td>
+<td>Molecular evolution: linkage and selection: Humans</td>
+<td>Enard et al. 2014 (Enard.Messer.Petrov_2014_GenomeRes.pdf)</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>15</td>
+<td>Apr 25</td>
+<td>Molecular evolution: Adaptation vs Drift in organismal
+complexity</td>
+<td>Lynch 2007 (Lynch_2007_ProcNatlAcadSciUSA.pdf)</td>
+</tr>
+</tbody>
+</table>
+<!-- ## Topics: -->
+<!-- * fisher vs wright: mass selection vs shifting balance -->
+<!--     - Ewens 2011 -->
+<!--     - Wright 1932 / 1988 / Lande 1985 -->
+<!--     - Coyne, Barton, Turelli 1997 -->
+<!--     - Kryazhimskiy / Nahum / Van Cleve -->
+<!-- * lewontin vs dawkins: spandrels or adaptations -->
+<!--     - Lewontin & Gould / Lewontin 1979 / Lewontin interview -->
+<!--     - Hastings 1981 / Frean & Abraham 2001 / Rankin 2005 -->
+<!--     - Frank 1995 on the price equation -->
+<!--     - Grafen 2008 -->
+<!--     - Lehmann & Rousset (2014) -->
+<!-- * kimura vs gillespie: drift or draft -->
+<!-- ## Key Concepts: -->
+<!-- * evolutionary change as a dynamical system -->
+<!-- * selection as hill climbing -->
+<!-- * adaptations as equilibrium points -->
+<!-- ## Crazy topics: -->
+<!-- * Steve Frank's work on evolution and information theory -->
+<!-- * Jeremy England's theory of evolution via entropy production -->
+<!-- * Selection and constraint: the role of landscape and the no free lunch theorems -->
+<h1 id="course-policies">Course policies</h1>
+<p>Please see <a href="https://www.uky.edu/universitysenate/acadpolicy"
+class="uri">https://www.uky.edu/universitysenate/acadpolicy</a> for a
+full description of UK academic policies.</p>
+<h2 id="diversity-and-inclusion">Diversity and Inclusion</h2>
+<p>Members of the course are entitled to learn from each other in an
+open and welcoming environment regardless of their racial, ethnic,
+gender, and sexual identities. Conduct that is not respectful of these
+identities or of the national origin, religion, and political beliefs
+students and instructors will not be tolerated. Please report any
+concerning conduct to the instructor.</p>
+<h2 id="face-coveringdistancing-policy">Face Covering/Distancing
+Policy</h2>
+<ul>
+<li><p>Transmission of COVID-19 is still prevalent in Kentucky. The
+instructor and students are entitled to practices that reduce
+transmission including, and not limited to, wearing a high-quality mask
+and social distancing.</p></li>
+<li><p>In accordance with University guidelines, these transmission
+reducing practices are optional but the instructor encourages them. If
+COVID-19 is a specific risk to a student or a student has any concerns
+about classroom COVID-19 policies, please contact the instructor as soon
+as possible.</p></li>
+<li><p>More information about COVID-19 and UK can be found here: <a
+href="https://coronavirus.uky.edu/"
+class="uri">https://coronavirus.uky.edu/</a></p></li>
+</ul>
+<h2 id="excused-absences">Excused Absences</h2>
+<p>Students need to notify the instructor of absences prior to class
+when possible. Senate Rule Senate Rules 5.2.5.2.1 defines the following
+as acceptable reasons for excused absences: (a) significant illness, (b)
+death of a family member, (c) trips for members of student organizations
+sponsored by an educational unit, trips for University classes, and
+trips for participation in intercollegiate athletic events, (d) major
+religious holidays, (e) interviews for graduate/professional school or
+full-time employment post-graduation, and (f) other circumstances found
+to fit “reasonable cause for nonattendance” by the professor.</p>
+<p>Students anticipating an absence for a major religious holiday are
+responsible for notifying the instructor in writing of anticipated
+absences due to their observance of such holidays no later than the last
+day in the semester to add a class. Students are expected to withdraw
+from the class if more than 20% of the classes scheduled for the
+semester are missed (excused or unexcused) per university policy.</p>
+<h2 id="verification-of-absences">Verification of Absences</h2>
+<p>Students may be asked to verify their absences in order for them to
+be considered excused. Senate Rule 5.2.5.2.1 states that faculty have
+the right to request appropriate verification when students claim an
+excused absence due to: significant illness; death in the household,
+trips for classes, trips sponsored by an educational unit and trips for
+participation related to intercollegiate athletic events; and interviews
+for full-time job opportunities after graduation and interviews for
+graduate and professional school.</p>
+<h2 id="academic-integrity">Academic Integrity</h2>
+<p>Per university policy, students shall not plagiarize, cheat, or
+falsify or misuse academic records. Students are expected to adhere to
+University policy on cheating and plagiarism in all courses. The minimum
+penalty for a first offense is a zero on the assignment on which the
+offense occurred. If the offense is considered severe or the student has
+other academic offenses on their record, more serious penalties, up to
+suspension from the university may be imposed.</p>
+<p>Plagiarism and cheating are serious breaches of academic conduct.
+Each student is advised to become familiar with the various forms of
+academic dishonesty as explained in the Code of Student Rights and
+Responsibilities. Complete information can be found at the following
+website: <a href="https://www.uky.edu/ombud/"
+class="uri">https://www.uky.edu/ombud/</a>. A plea of ignorance is not
+acceptable as a defense against the charge of academic dishonesty. It is
+important that you review this information as all ideas borrowed from
+others need to be properly credited.</p>
+<p>Section 6.3 “Academic Offenses and Procedures” of the <a
+href="http://www.uky.edu/universitysenate/rules-regulations">Senate
+Rules</a> lays out UK’s policy on academic integrity and says the
+following about plagarism and</p>
+<h2 id="accommodations-due-to-disability">Accommodations due to
+disability</h2>
+<p>In accordance with federal law, if you have a documented disability
+that requires academic accommodations, please inform me as soon as
+possible. In order to receive accommodations in a course, you must
+provide me with a Letter of Accommodation from the Disability Resource
+Center (DRC).</p>
+<p>The DRC coordinates campus disability services available to students
+with disabilities. It is located on the corner of Rose Street and
+Huguelet Drive in the Multidisciplinary Science Building, Suite 407. You
+can reach them via phone at (859) 257-2754, via email (<a
+href="mailto:drc@uky.edu" class="email">drc@uky.edu</a>) or visit their
+website (<a href="https://www.uky.edu/DisabilityResourceCenter/"
+class="uri">https://www.uky.edu/DisabilityResourceCenter/</a>). DRC
+accommodations are not retroactive and should therefore be established
+with the DRC as early in the semester as is feasible.</p>
+</body>
+</html>
