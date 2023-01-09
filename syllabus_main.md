@@ -20,7 +20,7 @@ header-includes: |
 | **Instructor**     | Dr. Jeremy Van Cleve                                           |
 | **E-mail**         | <jvancleve@uky.edu>                                            |
 | **Phone**          | \(859\) 218-3020                                               |
-| **Office**         | 216 THM                                                        |
+| **Office**         | THM 216                                                        |
 | **Office hours**   | By appointment                                                 |
 |                    |                                                                |
 | **Class Time**     | T 11 AM – 12 PM                                                |
@@ -54,16 +54,19 @@ The course will focus on readings from the primary literature with augmentation 
 
 Each student should sign up to be a co-leader for **TWO** topics (see [Canvas sign up][canvas site]). Leading the discussion means:
 
-1. Reading each papers **thoroughly**.
-2. Preparing some topics and questions derived from the papers to generate discussion.
-3. Doing additional background research to on unfamiliar or challenging concepts or results so as to aid other students in discussion.
+1. Reading the papers **thoroughly**.
+2. Preparing topics and questions derived from the papers to generate discussion.
+3. Doing additional background research on unfamiliar or challenging concepts or results so as to aid other students in discussion.
 4. Using prepared topics/questions/background to stimulate discussion.
 5. Maintaining a balance among the discussion contributions of all the students in class.
-6. Incorporate note card questions for other students (see below) in discussion.
+6. Incorporating note card questions for other students (see below) in discussion.
 
 ## Weekly note card questions
 
-Before each class meeting, each student should prepare one or two questions based on the readings.  Each question should be written out on a note card and handed to the discussion leaders for that week. 
+Before each class meeting, each student should prepare one or two questions based on the readings.
+
+- Write each question out on a **note card** and include **your name**.
+- **Hand in** your note cards to the discussion leaders for that week at the beginning of class.
 
 # Grading
 
