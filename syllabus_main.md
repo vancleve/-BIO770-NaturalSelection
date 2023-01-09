@@ -48,12 +48,26 @@ Through reading primary articles on the natural selection and other evolutionary
 
 The course will focus on readings from the primary literature with augmentation by other sources as needed.
 
-# Assignments
+# Course work
 
-Before each class meeting, students should submit two questions about the reading to the [Canvas course site][canvas site] under "Assignments"
+## Discussion leadership
+
+Each student should sign up to be a co-leader for **TWO** topics (see [Canvas sign up][canvas site]). Leading the discussion means:
+
+1. Reading each papers **thoroughly**.
+2. Preparing some topics and questions derived from the papers to generate discussion.
+3. Doing additional background research to on unfamiliar or challenging concepts or results so as to aid other students in discussion.
+4. Using prepared topics/questions/background to stimulate discussion.
+5. Maintaining a balance among the discussion contributions of all the students in class.
+6. Incorporate note card questions for other students (see below) in discussion.
+
+## Weekly note card questions
+
+Before each class meeting, each student should prepare one or two questions based on the readings.  Each question should be written out on a note card and handed to the discussion leaders for that week. 
 
 # Grading
 
-* 25%: questions submitted before each meeting
-* 75%: participation in class discussion
+* 50%: Leading discussions
+* 25%: Weekly note card question
+* 25%: Participation in class discussion
 

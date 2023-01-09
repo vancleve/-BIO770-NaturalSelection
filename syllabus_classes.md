@@ -36,11 +36,12 @@
 | 12   | Apr 4  | Molecular evolution: detecting selection with intra/interspecific data |                    | McDonald & Kreitman 1991 (McDonald.Kreitman\_1991\_Nature.pdf)                                                         |
 |      |        |                                                                        |                    | Smith & Eyre-Walker 2002(Smith.Eyre-Walker\_2002\_Nature.pdf)                                                          |
 |      |        |                                                                        |                    |                                                                                                                        |
-| 13   | Apr 11 | Molecular evolution: linkage and selection: Drosophila                 |                    | Begun & Aquadro 1992 (Begun.Aquadro\_1992\_Nature.pdf)                                                                 |
+| 13   | Apr 11 | Molecular evolution: linkage and selection                             |                    | Begun & Aquadro 1992 (Begun.Aquadro\_1992\_Nature.pdf)                                                                 |
+|      |        |                                                                        |                    | Enard et al. 2014 (Enard.Messer.Petrov\_2014\_GenomeRes.pdf)                                                           |
+| 14   | Apr 18 | Molecular evolution: linkage and selection: Humans                     |                    |                                                                                                                        |
 |      |        |                                                                        |                    |                                                                                                                        |
-| 14   | Apr 18 | Molecular evolution: linkage and selection: Humans                     |                    | Enard et al. 2014 (Enard.Messer.Petrov\_2014\_GenomeRes.pdf)                                                           |
-|      |        |                                                                        |                    |                                                                                                                        |
-| 15   | Apr 25 | Molecular evolution: Adaptation vs Drift in organismal complexity      |                    | Lynch 2007 (Lynch\_2007\_ProcNatlAcadSciUSA.pdf)                                                                       |
+| 15   | Apr 25 | Recent assessments of the neutral theory                               |                    | Kern and Hahn 2018                                                                                                     |
+|      |        |                                                                        |                    | Jensent et al 2019                                                                                                     |
 
 <!-- ## Topics: -->
 
