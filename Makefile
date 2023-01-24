@@ -15,7 +15,7 @@ syllabus.html: syllabus.md
 
 tex: syllabus.tex
 syllabus.tex: syllabus.md
-	$(PANDOC) syllabus.md --pdf-engine=lualatex -V geometry:"margin=1in" -V fontsize:"10pt" -s -o syllabus.tex
+	$(PANDOC) syllabus.md --pdf-engine=lualatex -d main -s -o syllabus.tex
 
 pdf: syllabus.pdf
 syllabus.pdf: syllabus.md
