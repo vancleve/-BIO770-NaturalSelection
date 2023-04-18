@@ -130,8 +130,8 @@ Before each class meeting, each student should prepare one or two questions base
 | 14   | Apr 18 | Recent assessments of the neutral theory               | Barker, Cook              | [Kern and Hahn 2018](https://uk.instructure.com/courses/2062737/modules/items/26392487)                                |
 |      |        |                                                        |                           | [Jensen et al 2019](https://uk.instructure.com/courses/2062737/modules/items/26392488)                                 |
 |      |        |                                                        |                           |                                                                                                                        |
-| 15   | Apr 25 | Natural selection and society                          | Parra Sotalin, Salano     | [Branch et al. 2022](https://uk.instructure.com/courses/2062737/modules/items/26392486)                                |
-|      |        |                                                        |                           |                                                                                                                        |
+| 15   | Apr 25 | Natural selection and society                          | Parra Sotalin, Salano     | [Bird 2021](https://uk.instructure.com/courses/2062737/modules/items/26510926)                                         |
+|      |        |                                                        |                           | [Branch et al. 2022](https://uk.instructure.com/courses/2062737/modules/items/26392486)                                |
 
 <!-- ## Topics: -->
 
